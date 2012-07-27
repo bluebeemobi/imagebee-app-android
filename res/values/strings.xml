@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ImageBee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_takephoto">Take photo &amp; add to album</string>
+    <string name="title_activity_main">ImageBee</string>
+    <string name="menu_refresh">Refresh</string>
+
+</resources>
